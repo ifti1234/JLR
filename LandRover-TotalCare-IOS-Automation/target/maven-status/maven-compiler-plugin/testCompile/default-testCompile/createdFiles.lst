@@ -1,0 +1,10 @@
+cucumber/stepDefinitions/GuidesStepDefinitions.class
+cucumber/stepDefinitions/SignUpStepDefinitions.class
+cucumber/stepDefinitions/LocatorsStepDefinitions.class
+cucumber/stepDefinitions/BookAServiceStepDefinitions.class
+cucumber/stepDefinitions/MyCarsStepDefinitions.class
+cucumber/stepDefinitions/LoginStepDefinitions.class
+cucumber/stepDefinitions/ForgotPasswordStepDefinitions.class
+cucumber/stepDefinitions/HomeScreenStepDefinitions.class
+cucumber/stepDefinitions/CucumberHooks.class
+cucumber/runners/CukesRunner.class
